@@ -1,4 +1,4 @@
-## These files are the code for paper SCEntropy
+## These files are the codes for paper SCEntropy
 
 <!--
 **SCEntropy/SCEntropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
